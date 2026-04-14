@@ -10,6 +10,8 @@ April 14th, 2026
 
 5:38 PM
 
-The paper is licensed by: CC BY-NC-ND 4.0
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+© 2026 Landon Xie. All rights reserved.
 
 landonxie771@gmail.com
